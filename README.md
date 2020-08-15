@@ -1,5 +1,6 @@
 # Overview
 ![Cover Image](https://hackster.imgix.net/uploads/attachments/379471/img_3858_zAJgmTGsT2.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 Parents always worry about their children. Parents want their children to arrive to school punctual and get home on time, taking the assigned path.
 
 SmartWay aims to remove this worry from the parent's everyday life. SmartWay will monitor your child as he/she gets to and from school, ensuring that your child always takes the appropriate path to arrive at his/her destination, school.
